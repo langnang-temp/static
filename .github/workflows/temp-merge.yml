@@ -30,3 +30,4 @@ jobs:
           from_branch: "parent-master"
           target_branch: "develop"
           github_token: ${{ github.GITHUB_TOKEN }}
+
